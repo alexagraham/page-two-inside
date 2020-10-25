@@ -43,7 +43,7 @@ main > article > section {
 
 main > article > header {
   background-color: black;
-  padding: 0 20px;
+  padding: 0 0px;
   height: calc(100vh - 80%);
 }
 @media (min-width: 768px) {
